@@ -23,6 +23,7 @@ solc-select use 0.4.25   # example of using solc-select: set the version of solc
 ```
 analyze
 ./tests/testdata/solidity_files/Crowdsale.sol:Crowdsale
+-fss rl_mlp_policy
 ```
 4, Run semyth.py by right clicking it and select "Run semyth".
 
